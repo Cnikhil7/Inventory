@@ -1,4 +1,4 @@
-package com.example.android.inventory;
+package com.example.android.inventory.database;
 
 import android.content.ContentResolver;
 import android.net.Uri;
